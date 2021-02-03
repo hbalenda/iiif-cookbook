@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3559,
-  "@id" : "http://localhost:8887/iiif/IMG_5077",
+  "@id" : "https://hbalenda.github.io/iiif-cookbook/iiif/IMG_5077",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 2777
 }
