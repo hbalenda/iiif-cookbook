@@ -1,0 +1,185 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://995c2b46-00b5-447f-b11e-06a143e80d81",
+	"@type": "sc:Manifest",
+	"label": "Corey Family Cookbook",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Recipes from Rose Corey's kitchen",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Hannah Balenda 2020",
+	"sequences": [
+		{
+			"@id": "http://57e3670e-6c9a-4eac-9710-dcfca585bd57",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://64e3ba5e-fa11-49bd-9789-accb9f0716f3",
+					"@type": "sc:Canvas",
+					"label": "Front Cover",
+					"height": 3514,
+					"width": 2413,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ff573937-cae2-482b-b066-1d92dbfb91e2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-5075_202102/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-5075_202102",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3514,
+								"width": 2413
+							},
+							"on": "http://64e3ba5e-fa11-49bd-9789-accb9f0716f3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://95de525e-b49b-4fe3-8dde-ee7703160f8e",
+					"@type": "sc:Canvas",
+					"label": "Handwritten Recipes",
+					"height": 2793,
+					"width": 3619,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5d6dda0f-795d-46ae-8d62-7ad32411428d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-5073/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-5073",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2793,
+								"width": 3619
+							},
+							"on": "http://95de525e-b49b-4fe3-8dde-ee7703160f8e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1de4f3f3-5111-4172-bee3-4957eed5887c",
+					"@type": "sc:Canvas",
+					"label": "Tabooleh Recipe",
+					"height": 2785,
+					"width": 3581,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0a716353-35cd-4294-b16b-ec38563d2968",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-5074/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-5074",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2785,
+								"width": 3581
+							},
+							"on": "http://1de4f3f3-5111-4172-bee3-4957eed5887c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://89151f28-6be6-41dd-bb4b-e4933af52b21",
+					"@type": "sc:Canvas",
+					"label": "Talame Recipe",
+					"height": 2777,
+					"width": 3559,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c12d0e83-ac08-4408-8aa8-b982f20b7b0c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-5077_202102/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-5077_202102",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2777,
+								"width": 3559
+							},
+							"on": "http://89151f28-6be6-41dd-bb4b-e4933af52b21"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f9254202-0efe-482e-90ab-ff92a755e917",
+					"@type": "sc:Canvas",
+					"label": "Back Cover",
+					"height": "3632",
+					"width": "2556",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://80a706a1-8f09-43bf-afbb-67fb1e840a96",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-5076/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-5076",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3632,
+								"width": 2556
+							},
+							"on": "http://f9254202-0efe-482e-90ab-ff92a755e917"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
