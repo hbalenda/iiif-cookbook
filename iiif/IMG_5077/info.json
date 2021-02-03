@@ -1,14 +1,11 @@
 {
   "tiles" : [ {
-    "scaleFactors" : [ 1, 2 ],
-    "width" : 1024,
-    "height" : 1024
+    "scaleFactors" : [ 1 ],
+    "width" : 768,
+    "height" : 768
   } ],
   "protocol" : "http://iiif.io/api/image",
   "sizes" : [ {
-    "width" : 1186,
-    "height" : 925
-  }, {
     "width" : 1779,
     "height" : 1388
   }, {
