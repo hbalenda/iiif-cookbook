@@ -82,7 +82,7 @@
 					"related": "",
 					"otherContent": [
 						{
-							"@id": "https://sas.gdmrdigital.com/annotation/list/f17f7596b4b4bfc138f1375412227158.json",
+							"@id": "https://hbalenda.github.io/iiif-cookbook/handwritten-recipes-annotations.json",
 							"@type": "sc:AnnotationList",
 							"label": "Handwritten Recipes Annotations"
 						}
@@ -117,7 +117,7 @@
 					],
 					"related": "",
 					"otherContent": [{
-						"@id": "https://sas.gdmrdigital.com/annotation/list/fda58caa70599c78f760c00a85688a79.json",
+						"@id": "https://hbalenda.github.io/iiif-cookbook/tabooleh-recipe-annotations.json",
 		        "@type": "sc:AnnotationList",
 		        "label": "Tabooleh Recipe Annotations"
 					}]
