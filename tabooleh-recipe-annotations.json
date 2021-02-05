@@ -14,7 +14,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:tagging", "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:22:37",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488157387",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488157387",
     "dcterms:modified" : "2021-02-05T01:22:37",
     "@context" : [ {
       "viewingDirection" : {
@@ -262,7 +262,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:23:55",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488235384",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488235384",
     "dcterms:modified" : "2021-02-05T01:23:55",
     "@context" : [ {
       "viewingDirection" : {
@@ -514,7 +514,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:tagging", "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:22:12",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488132350",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488132350",
     "dcterms:modified" : "2021-02-05T01:22:12",
     "@context" : [ {
       "viewingDirection" : {
@@ -762,7 +762,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:24:28",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488268245",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488268245",
     "dcterms:modified" : "2021-02-05T01:24:28",
     "@context" : [ {
       "viewingDirection" : {
@@ -1010,7 +1010,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:23:11",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488191502",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488191502",
     "dcterms:modified" : "2021-02-05T01:23:11",
     "@context" : [ {
       "viewingDirection" : {
@@ -1258,7 +1258,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:21:07",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488067379",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488067379",
     "dcterms:modified" : "2021-02-05T01:21:07",
     "@context" : [ {
       "viewingDirection" : {
@@ -1510,7 +1510,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "dcterms:created" : "2021-02-05T01:21:53",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488113967",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488113967",
     "dcterms:modified" : "2021-02-05T01:22:21",
     "@context" : [ {
       "viewingDirection" : {
@@ -1762,7 +1762,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:tagging", "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:21:42",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488102281",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488102281",
     "dcterms:modified" : "2021-02-05T01:21:42",
     "@context" : [ {
       "viewingDirection" : {
@@ -2018,7 +2018,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:tagging", "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:22:57",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488177615",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488177615",
     "dcterms:modified" : "2021-02-05T01:22:57",
     "@context" : [ {
       "viewingDirection" : {
@@ -2266,7 +2266,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:20:45",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488045706",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488045706",
     "dcterms:modified" : "2021-02-05T01:20:45",
     "@context" : [ {
       "viewingDirection" : {
@@ -2514,7 +2514,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:23:32",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488212446",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488212446",
     "dcterms:modified" : "2021-02-05T01:23:32",
     "@context" : [ {
       "viewingDirection" : {
@@ -2762,7 +2762,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:23:42",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488222453",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488222453",
     "dcterms:modified" : "2021-02-05T01:23:42",
     "@context" : [ {
       "viewingDirection" : {
@@ -3001,6 +3001,6 @@
       "full" : "http://1de4f3f3-5111-4172-bee3-4957eed5887c"
     } ]
   } ],
-  "@id" : "http://sas.gdmrdigital.com/annotation/list/fda58caa70599c78f760c00a85688a79.json",
+  "@id" : "https://sas.gdmrdigital.com/annotation/list/fda58caa70599c78f760c00a85688a79.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }

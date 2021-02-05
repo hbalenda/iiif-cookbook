@@ -10,7 +10,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T00:22:14",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612484534438",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612484534438",
     "dcterms:modified" : "2021-02-05T00:25:33",
     "@context" : [ {
       "viewingDirection" : {
@@ -262,7 +262,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "dcterms:created" : "2021-02-05T00:26:20",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612484780076",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612484780076",
     "dcterms:modified" : "2021-02-05T01:28:47",
     "@context" : [ {
       "viewingDirection" : {
@@ -510,7 +510,7 @@
     "@type" : "oa:Annotation",
     "motivation" : [ "oa:commenting" ],
     "dcterms:created" : "2021-02-05T01:29:01",
-    "@id" : "http://sas.gdmrdigital.com/annotation/1612488541920",
+    "@id" : "https://sas.gdmrdigital.com/annotation/1612488541920",
     "dcterms:modified" : "2021-02-05T01:29:01",
     "@context" : [ {
       "viewingDirection" : {
@@ -749,6 +749,6 @@
       "full" : "http://95de525e-b49b-4fe3-8dde-ee7703160f8e"
     } ]
   } ],
-  "@id" : "http://sas.gdmrdigital.com/annotation/list/f17f7596b4b4bfc138f1375412227158.json",
+  "@id" : "https://sas.gdmrdigital.com/annotation/list/f17f7596b4b4bfc138f1375412227158.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
