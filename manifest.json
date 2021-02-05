@@ -42,9 +42,7 @@
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
 									"@id": "https://iiif.archivelab.org/iiif/img-5075_202102",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json"
-									]
+									"profile": ["http://iiif.io/api/image/2/level2.json"]
 								},
 								"height": 3514,
 								"width": 2413
@@ -73,9 +71,7 @@
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
 									"@id": "https://iiif.archivelab.org/iiif/img-5073",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json"
-									]
+									"profile": ["http://iiif.io/api/image/2/level2.json"]
 								},
 								"height": 2793,
 								"width": 3619
@@ -83,7 +79,14 @@
 							"on": "http://95de525e-b49b-4fe3-8dde-ee7703160f8e"
 						}
 					],
-					"related": ""
+					"related": "",
+					"otherContent": [
+						{
+							"@id": "http://sas.gdmrdigital.com/annotation/list/f17f7596b4b4bfc138f1375412227158.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+						}
+					]
 				},
 				{
 					"@id": "http://1de4f3f3-5111-4172-bee3-4957eed5887c",
@@ -104,9 +107,7 @@
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
 									"@id": "https://iiif.archivelab.org/iiif/img-5074",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json"
-									]
+									"profile": ["http://iiif.io/api/image/2/level2.json"]
 								},
 								"height": 2785,
 								"width": 3581
@@ -135,9 +136,7 @@
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
 									"@id": "https://iiif.archivelab.org/iiif/img-5077_202102",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json"
-									]
+									"profile": ["http://iiif.io/api/image/2/level2.json"]
 								},
 								"height": 2777,
 								"width": 3559
@@ -166,9 +165,7 @@
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
 									"@id": "https://iiif.archivelab.org/iiif/img-5076",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json"
-									]
+									"profile": ["http://iiif.io/api/image/2/level2.json"]
 								},
 								"height": 3632,
 								"width": 2556
