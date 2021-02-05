@@ -82,9 +82,9 @@
 					"related": "",
 					"otherContent": [
 						{
-							"@id": "http://sas.gdmrdigital.com/annotation/list/f17f7596b4b4bfc138f1375412227158.json",
+							"@id": "https://sas.gdmrdigital.com/annotation/list/f17f7596b4b4bfc138f1375412227158.json",
 							"@type": "sc:AnnotationList",
-							"label": "My fantastic annotations"
+							"label": "Handwritten Recipes Annotations"
 						}
 					]
 				},
@@ -115,7 +115,12 @@
 							"on": "http://1de4f3f3-5111-4172-bee3-4957eed5887c"
 						}
 					],
-					"related": ""
+					"related": "",
+					"otherContent": [{
+						"@id": "https://sas.gdmrdigital.com/annotation/list/fda58caa70599c78f760c00a85688a79.json",
+		        "@type": "sc:AnnotationList",
+		        "label": "Tabooleh Recipe Annotations"
+					}]
 				},
 				{
 					"@id": "http://89151f28-6be6-41dd-bb4b-e4933af52b21",
