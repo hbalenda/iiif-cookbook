@@ -3,6 +3,11 @@
 	"@id": "http://995c2b46-00b5-447f-b11e-06a143e80d81",
 	"@type": "sc:Manifest",
 	"label": "Corey Family Cookbook",
+	"service": {
+	    "profile": "http://iiif.io/api/search/0/search",
+	    "@id": "http://sas.gdmrdigital.com/search-api/bd1ccf36cc8ba6a270eed0e3e1dfdfa3/search",
+	    "@context": "http://iiif.io/api/search/0/context.json"
+	},
 	"metadata": [],
 	"description": [
 		{
